@@ -58,7 +58,7 @@ Robinhood Chain. Addresses link to [Blockscout](https://robinhoodchain.blockscou
 | --- | --- |
 | Hook | [`0x58A6eF29ddCdb064A72b550a78D84a8e065994C0`](https://robinhoodchain.blockscout.com/address/0x58A6eF29ddCdb064A72b550a78D84a8e065994C0) |
 | Delta hook | [`0xB85138cbcAe0F7ddE777138392F44fD0C995d4C0`](https://robinhoodchain.blockscout.com/address/0xB85138cbcAe0F7ddE777138392F44fD0C995d4C0) |
-| Executor | [`0xF2Ca86F11d46b8b1DE41974012052d93ef2785aC`](https://robinhoodchain.blockscout.com/address/0xF2Ca86F11d46b8b1DE41974012052d93ef2785aC) |
+| Executor | [`0xF3Cb5d18Efc11bb05a9CC86F3eaf763d6CB6Bb83`](https://robinhoodchain.blockscout.com/address/0xF3Cb5d18Efc11bb05a9CC86F3eaf763d6CB6Bb83) |
 | Hookr executor | [`0x4B4c16681401454140a9dBca55e5c186BBE8D728`](https://robinhoodchain.blockscout.com/address/0x4B4c16681401454140a9dBca55e5c186BBE8D728) |
 
 ### Hook v1 (deprecated)
